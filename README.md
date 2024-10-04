@@ -27,4 +27,4 @@ I'm a software engineer with 4+ years of experience in .NET, Azure, and React. I
 
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/abdulmoiz](https://linkedin.com/in/abdulmoiz)
-- Email: moiz@example.com
+- Email: abdulmoiz_am@yahoo.com
