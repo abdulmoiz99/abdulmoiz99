@@ -49,5 +49,5 @@ public class AbdulMoiz
 </details>
 
 ## 📫 Get in Touch
-- LinkedIn: [linkedin.com/in/abdulmoiz](https://linkedin.com/in/abdulmoiz)
+- LinkedIn: [linkedin.com/in/abdulmoiz](https://www.linkedin.com/in/abdulmoiz99/)
 - Email: abdulmoiz_am@yahoo.com
