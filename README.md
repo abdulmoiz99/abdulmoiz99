@@ -48,6 +48,8 @@ public class AbdulMoiz
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmoiz99&layout=compact&theme=radical)
 </details>
 
+[![](https://visitcount.itsvg.in/api?id=abdulmoiz99&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ## 📫 Get in Touch
 - LinkedIn: [linkedin.com/in/abdulmoiz](https://www.linkedin.com/in/abdulmoiz99/)
 - Email: abdulmoiz_am@yahoo.com
